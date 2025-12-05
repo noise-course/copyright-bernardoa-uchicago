@@ -6,7 +6,7 @@ What happens when content is flagged as potentially infringing? The creator or r
 
 What is the appeals or counter-notification process? The following image from youtube’s Copyright Dispute Help page (https://support.google.com/youtube/answer/2797454?hl=en&co=GENIE.Platform%3DAndroid) describes this process well.
 
-![Diagram][diagram.png]
+![Diagram](diagram.png)
 
 How does the platform handle monetization of content containing copyrighted material? As long as the content is used fairly, which means they got permission to use the content or it is used according to the fair principles described by youtube, monetization is allowed.
 
